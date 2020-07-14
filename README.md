@@ -40,8 +40,8 @@ DELETE cars/{id}
 ``` bash
 POST cars
 {
-	"name": "Sesto Elemento",
-	"year": 2015,
+    "name": "Sesto Elemento",
+    "year": 2015,
     "manufacturer": "Lambourghini",
     "image": "noImage.jpg"
 }
@@ -54,8 +54,7 @@ POST cars
 
 ### Author
 
-Zahir
-[Krittimmanush](https://www.krittimmanush.com)
+Zahir [Krittimmanush](https://www.krittimmanush.com)
 
 ### Version
 
